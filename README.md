@@ -8,5 +8,8 @@ Developed with React Native, React Native Paper and Redux techniques.
 * Name of the competition is created automatically when starting the competition
 * When starting a new competition, competitors are entered individually and the amount of rounds is selected
 * Points are entered one round at a time for each competitor
-* In the end, the results are shown in descdending order and winner(s) is congratulated
+* At the end results are shown in descdending order and winner(s) is congratulated
+
+  ![image](https://github.com/user-attachments/assets/350ae9c0-e698-4435-9d47-591ad6d2616e)
+
 
